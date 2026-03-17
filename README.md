@@ -1,1 +1,1 @@
-Hi!
+![dithernaut cover](./assets/cover.webp)
